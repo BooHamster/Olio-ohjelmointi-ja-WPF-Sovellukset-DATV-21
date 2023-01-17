@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.exe
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.deps.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.runtimeconfig.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.AssemblyInfo.cs
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.genruntimeconfig.cache

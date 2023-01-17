@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.exe
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.deps.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.runtimeconfig.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\bin\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.AssemblyInfo.cs
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.genruntimeconfig.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\Harjoitus5LaskinOpettajanMalli\obj\Debug\netcoreapp3.1\Harjoitus5LaskinOpettajanMalli.csproj.AssemblyReference.cache

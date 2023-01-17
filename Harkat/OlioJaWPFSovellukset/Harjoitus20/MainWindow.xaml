@@ -1,0 +1,50 @@
+﻿<Window x:Class="Harjoitus20.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus20"
+        mc:Ignorable="d"
+          Title="MainWindow" Height="600" Width="900">
+    <Grid VerticalAlignment="Center" HorizontalAlignment="Center" Height="564" Width="880" RenderTransformOrigin="0.657,0.639">
+
+        <Grid Margin="728,0,0,0" HorizontalAlignment="Left" Width="152">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="277*"/>
+                <RowDefinition Height="287*"/>
+            </Grid.RowDefinitions>
+            <Button x:Name="btnAddOpiskelija" Content="Lisää Opiskelija" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="108" Click="btnAddOpiskelija_Click" Margin="0,0,0,91" Height="27"/>
+            <TextBox x:Name="etunimiInput" HorizontalAlignment="Left" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="0,36,0,0"/>
+            <TextBox x:Name="sukunimiInput" HorizontalAlignment="Left" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Margin="-1,80,0,0"/>
+            <TextBox x:Name="opiskelijaIDInput" HorizontalAlignment="Left" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" PreviewTextInput="OpiskelijaIDValidation" Margin="-1,128,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" Margin="0,15,0,0"><Run Language="en-fi" Text="Etunimi"/></TextBlock>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="109" Text="Sukunimi" Margin="0,59,0,0"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="110" Margin="-1,108,0,0"><Run Language="en-fi" Text="OpiskelijaID"/></TextBlock>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Margin="0,207,0,0"><Run Language="en-fi" Text="Poista Valitut Opiskelijat"/></TextBlock>
+            <Button x:Name="btnDeleteSelected" Margin="0,228,43,0" VerticalAlignment="Top" Click="btnDeleteSelected_Click" Height="26" Content="Poista Opiskelija"/>
+            <TextBlock HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="138" Margin="-1,276,0,0" Grid.RowSpan="2"><Run Text="Kokoelman"/><Run Language="en-fi" Text=" Hallinta"/></TextBlock>
+            <Button x:Name="btnSaveToFile" Content="Tallenna Tiedostoon" Margin="-1,32,44,0" VerticalAlignment="Top" Click="btnSaveToFile_Click" Grid.Row="1" Height="42"/>
+            <Button x:Name="btnLoadFromFile" Content="Hae Tiedostosta" Margin="-1,88,44,0" VerticalAlignment="Top" Click="btnLoadFromFile_Click" Grid.Row="1" Height="42"/>
+        </Grid>
+
+        <DataGrid x:Name="OpiskelijatGrid" Width="450" ItemsSource="{Binding}" HorizontalAlignment="Left" VerticalAlignment="Top" AutoGenerateColumns="False" CanUserReorderColumns="False" CanUserDeleteRows="False" Margin="10,99,0,0">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Etunimi" Width="150" Binding="{Binding Etunimi}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Sukunimi" Width="150" Binding="{Binding Sukunimi}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Opiskelija ID" Width="100" Binding="{Binding OpiskelijaID}" IsReadOnly="True"/>
+                <DataGridCheckBoxColumn Header="Poista" Binding="{Binding IsSelected}" Width="50*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <TextBlock x:Name="activityMessage" HorizontalAlignment="Left" Margin="10,8,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="656" Height="79" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="1.548"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.473"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+        </TextBlock>
+    </Grid>
+</Window>

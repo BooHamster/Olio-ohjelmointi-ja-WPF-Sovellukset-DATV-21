@@ -1,0 +1,20 @@
+﻿<Window x:Class="Harjoitus19.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus19"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="Hissi" Content="Hissi" HorizontalAlignment="Left" Margin="44,25,0,0" VerticalAlignment="Top" Width="283" FontFamily="Goudy Stout" FontSize="48" Height="62"/>
+        <Label x:Name="KerrosLabel" Content="Kerros:" HorizontalAlignment="Left" Margin="52,202,0,0" VerticalAlignment="Top" Width="300" Height="52" FontFamily="Goudy Stout" IsEnabled="False" FontSize="36"/>
+        <Button x:Name="Ylös" Content="Ylös" HorizontalAlignment="Left" Margin="52,335,0,0" VerticalAlignment="Top" Width="119" Click="Ylös_Click" FontSize="24" FontFamily="Goudy Stout"/>
+        <Button x:Name="Alas" Content="Alas" HorizontalAlignment="Left" Margin="192,335,0,0" VerticalAlignment="Top" Width="135" Click="Alas_Click" FontFamily="Goudy Stout" Height="37" FontSize="24"/>
+        <TextBox x:Name="KerrosTeksti" HorizontalAlignment="Left" Height="92" Margin="392,192,0,0" TextWrapping="Wrap" Text="Kerros" VerticalAlignment="Top" Width="311"/>
+        <Button x:Name="AsetaKerros" Content="Aseta Kerros" HorizontalAlignment="Left" Margin="392,335,0,0" VerticalAlignment="Top" Width="347" Click="Aseta_Click" FontFamily="Goudy Stout" FontSize="24"/>
+        <Button x:Name="Tyhjennä" Content="Tyhjennä" HorizontalAlignment="Left" Margin="67,129,0,0" VerticalAlignment="Top" Width="260" Click="Tyhjennä_Click" FontFamily="Goudy Stout" FontSize="24"/>
+        <TextBlock x:Name="KerrosNumero" HorizontalAlignment="Left" Margin="392,37,0,0" TextWrapping="Wrap" Text="KerrosNumero" VerticalAlignment="Top" Width="311" Height="115" FontFamily="Goudy Stout" FontSize="36"/>
+
+    </Grid>
+</Window>

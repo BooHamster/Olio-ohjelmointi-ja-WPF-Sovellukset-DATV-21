@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.exe
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.deps.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.runtimeconfig.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\bin\Debug\netcoreapp3.1\VahvistinTesti.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.AssemblyInfo.cs
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\VahvistinTesti\obj\Debug\netcoreapp3.1\VahvistinTesti.genruntimeconfig.cache

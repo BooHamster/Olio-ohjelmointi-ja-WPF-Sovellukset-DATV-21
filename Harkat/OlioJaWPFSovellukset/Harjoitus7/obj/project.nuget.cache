@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QpSl0xYploX4z7hypZjffGGvUWuBLt9Dl6me9BfOtMJYQeCq17D4AxZCndPaaIUjqCDIGmzzHvou9SJlPpD4CA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rober\\source\\repos\\Kajanti\\Harkat\\OlioJaWPFSovellukset\\Harjoitus7\\Harjoitus7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rober\\.nuget\\packages\\xamarin.forms\\5.0.0.2291\\xamarin.forms.5.0.0.2291.nupkg.sha512"
+  ],
+  "logs": []
+}

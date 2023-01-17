@@ -1,0 +1,14 @@
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.csproj.AssemblyReference.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.AssemblyInfo.cs
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.exe
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.deps.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.runtimeconfig.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\bin\Debug\netcoreapp3.1\OmaOlio.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\OmaOlio\obj\Debug\netcoreapp3.1\OmaOlio.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.exe
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.deps.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.runtimeconfig.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.runtimeconfig.dev.json
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\bin\Debug\netcoreapp3.1\HenkilöStatic.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.AssemblyInfoInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.AssemblyInfo.cs
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.csproj.CoreCompileInputs.cache
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.dll
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.pdb
+C:\Users\rober\source\repos\Kajanti\Harkat\OlioJaWPFSovellukset\HenkilöStatic\obj\Debug\netcoreapp3.1\HenkilöStatic.genruntimeconfig.cache
